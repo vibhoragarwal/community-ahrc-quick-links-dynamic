@@ -16,6 +16,7 @@
 <%--@elvariable id="url" type="org.jahia.services.render.URLGenerator"--%>
 
 
+
 <div id="sectionNav">
   <h2>Quick links</h2>
   <ul>
